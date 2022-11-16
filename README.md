@@ -1,5 +1,4 @@
-[![MasterHead](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)](https://rishavchanda.io)
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"></img>
+<img align="center" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"></img>
 <h1 align="center">Hi 👋, I'm Farrel</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
