@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?w=996&t=st=1668609994~exp=1668610594~hmac=de1053e53924801826a08267fe27783f5)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Farrel</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
