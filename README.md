@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)](https://rishavchanda.io)
+[![MasterHead](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Farrel</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
