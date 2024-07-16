@@ -1,8 +1,8 @@
 <h1 align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*hSmwvKL1pgfHlPAb-WA_Rw.gif"></img>
 </h1>
-<h1 align="center">Hi 👋, I'm Farrel</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h1 align="center">Hi 👋, I'm Moch Farrel Farrel</h1>
+<h3 align="center">A passionate Full Stack Developer from Indonesia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mochfarrel06" alt="mochfarrel06" /></a> </p>
 
