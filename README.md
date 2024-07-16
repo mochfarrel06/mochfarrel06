@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mochfarrel06" alt="mochfarrel06" /></a> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **mochfarrel008@gmail.com**
 
