@@ -7,8 +7,8 @@
 <h3 align="center">A passionate Full Stack Developer from Indonesia</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 20px 0;">
-    <img src="https://github-profile-trophy.vercel.app/?username=mochfarrel06" alt="mochfarrel06" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mochfarrel06" alt="mochfarrel06" style="margin-right: 20px;" />
   </a>
 </p>
 
