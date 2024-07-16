@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"></img>
+  <img src="[https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Frevolutionizing-healthcare-revenue-cycle-management&psig=AOvVaw0KNzvMgqnKvsxA9WDhOc_h&ust=1721179315480000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqGAoTCKidtuCyqocDFQAAAAAdAAAAABC0AQ)"></img>
 </h1>
 <h1 align="center">Hi 👋, I'm Farrel</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
